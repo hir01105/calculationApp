@@ -1,0 +1,14 @@
+.bg-special{
+    background: linear-gradient(#333333, #000000);
+}
+
+.calculator-box{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    background: #FFFF;
+    border-radius: 10px;
+}
+
+.buttons button {
+    width: 30%;
+}
